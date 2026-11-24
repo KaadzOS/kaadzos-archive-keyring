@@ -2,6 +2,22 @@
   <img src="https://raw.githubusercontent.com/KaadzOS/.github/main/assets/kaadzoslogo.png" alt="KaadzOS" width="100%">
 </div>
 
+<p align="center">
+  <sub>APT SIGNING KEY &nbsp;·&nbsp; VERIFICATION POLICY &nbsp;·&nbsp; TRUST ON DISPLAY</sub>
+</p>
+
+<p align="center">
+  <strong>Trust in ASCII armor.</strong><br>
+  One fingerprint. One archive. No hand-waving.
+</p>
+
+<p align="center">
+  <a href="https://kaadzos.pages.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://kaadzos.pages.dev/docs/">Manual</a> &nbsp;·&nbsp;
+  <a href="https://iso.kaadzos.pages.dev/apt/">APT archive</a> &nbsp;·&nbsp;
+  <a href="https://github.com/KaadzOS/KaadzOS/releases/latest">Latest release</a>
+</p>
+
 ## KaadzOS archive keyring
 
 This repository publishes the public signing key used by the optional KaadzOS APT archive and by signed release checksums. It contains public material only; the private signing key is never stored here.
