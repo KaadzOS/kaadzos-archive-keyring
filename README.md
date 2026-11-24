@@ -51,4 +51,8 @@ sha256sum --check KaadzOS-trixie-amd64.iso.sha256
 
 If the key ever rotates, the fingerprint in this README and the published keyring change together. Check the [latest release](https://github.com/KaadzOS/KaadzOS/releases/latest) or the [main repository](https://github.com/KaadzOS/KaadzOS) before trusting a new key.
 
+## Licence
+
+The documentation in this repository is MIT-licensed; see [`LICENSE`](LICENSE). The public key is published for verification and is not a secret.
+
 <sub>Debian is a registered trademark of Software in the Public Interest, Inc. KaadzOS is an independent project.</sub>
